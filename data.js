@@ -64,7 +64,11 @@ let favoriteBooks = [
 }
 ]
 
-//write second favorite books author, first character name
+let titleOfSecondFavoriteBook = favoriteBooks.title[1]
+console.log(titleOfSecondFavoriteBook)
+
+let charactersOfSecondFavoriteBook = favoriteBooks.characters[1]
+console.log(titleOfSecondFavoriteBook)
 
 let myfavoriteBook = 1997
 let mySecondFavoriteBook = 1954
