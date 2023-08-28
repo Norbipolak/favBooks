@@ -42,7 +42,7 @@ console.log(favoriteBook)
 console.log(favoriteBook.author)
 console.log(favoriteBook.year)
 mySecondCharacter = favoriteBook.charcters[1]
-console.log(mySecondCharacter)
+console.log(favoriteBook[mySecondCharacter])
 
 let favoriteBooks = [
     {
@@ -65,10 +65,10 @@ let favoriteBooks = [
 ]
 
 let titleOfSecondFavoriteBook = favoriteBooks.title[1]
-console.log(titleOfSecondFavoriteBook)
+console.log(favoriteBooks[titleOfSecondFavoriteBook])
 
 let charactersOfSecondFavoriteBook = favoriteBooks.characters[1]
-console.log(titleOfSecondFavoriteBook)
+console.log(favoriteBooks[titleOfSecondFavoriteBook])
 
 let myfavoriteBook = 1997
 let mySecondFavoriteBook = 1954
