@@ -70,3 +70,5 @@ let myfavoriteBook = 1997
 let mySecondFavoriteBook = 1954
 
 let sum = myfavoriteBook - mySecondFavoriteBook
+
+console.log(sum)
