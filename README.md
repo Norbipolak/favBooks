@@ -20,7 +20,7 @@ Title: Lord Of the Rings
 
 Author: J.R.R.Tolkien
 
-Years of Publication: 1954
+Year of Publication: 1954
 
 Name of Characters:
  - Gandalf
